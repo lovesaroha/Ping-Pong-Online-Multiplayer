@@ -1,0 +1,19 @@
+{
+  "name": "ping-pong-online-multiplayer",
+  "version": "1.0.0",
+  "description": "Play ping pong online with your friends or family members.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LoveSaroha/Ping-Pong-Online-Multiplayer"
+  },
+  "author": "lovesaroha",
+  "license": "ISC",
+  "dependencies": {
+    "sha1": "1.1.1",
+    "socket.io": "4.2.0"
+  }
+}
