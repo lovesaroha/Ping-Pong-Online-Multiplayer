@@ -12,7 +12,7 @@ const io = require('socket.io')(server, {});
 var rooms = {};
 
 // Port.
-const PORT = 3000;
+const PORT = 3001;
 console.log(`Server running at port ${PORT}`);
 server.listen(PORT);
 
