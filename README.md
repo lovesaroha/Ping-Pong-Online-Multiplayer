@@ -26,4 +26,4 @@ Create your own personal game room or join other rooms and start playing ping po
 ---
 ![image](https://raw.githubusercontent.com/lovesaroha/gimages/main/29.png)
 
-[lovesaroha/n/Ping-Pong-Online-Multiplayer](https://lovesaroha.com/n/Ping-Pong-Online-Multiplayer)
+[ping-pong.lovesaroha](https://ping-pong.lovesaroha.com)
